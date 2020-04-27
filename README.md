@@ -24,8 +24,6 @@ $ conda install -c conda-forge scikit-surprise
 ```
 
 
-
-#### License
----
-Apache 2.0
-
+License
+------
+Apache 2.0 
